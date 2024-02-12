@@ -71,4 +71,4 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 ## Support
 
-For questions, issues, or feedback, please feel free to [open an issue](https://github.com/samueltexa/OrderWave.git). We're here to help you make the most of OrderWave!
+For questions, issues, or feedback, please feel free to [open an issue](https://github.com/samueltexa/OrderWave.git). We're here to help you make the most of OrderWave! 
